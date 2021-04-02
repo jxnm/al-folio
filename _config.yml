@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jack Mitchell # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Hi 👋🏻
 last_name: I'm Jack
 email: jack@jacksonmitchell.net
