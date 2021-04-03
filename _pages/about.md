@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: I'm a producer, editor and project manager based in Boston.
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   address: >
     <p>Photo of my ugly mug by <a href="https://twitter.com/rlubb">Robin Lubbock</a></p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# news: true  # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
