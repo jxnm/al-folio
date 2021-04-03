@@ -15,8 +15,8 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a versatile, innovative collaborator who solves problems. I'm happiest working and learning at the intersection of journalism, technology and design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+For the last 18 months, I worked on an initiative at <a href="https://wbur.org">WBUR</a> called <a href="https://wbur.org/citrus">Project CITRUS</a>, funded by the Google News Initiative. Before that I worked for a radio show called <em>Here & Now</em>, a co-production of NPR and WBUR. I managed the show's digital content strategy and daily production.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Thank you for visiting my website.
