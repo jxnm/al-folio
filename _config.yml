@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jack Mitchell # the website title (if blank, full name will be used instead)
 first_name: Hi, I'm Jack 👋🏻
 email: jack@jacksonmitchell.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jack Mitchell is a producer, editor and project manager based in Boston.
+  A producer, editor and project manager based in Boston.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -65,8 +65,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: this is where I post occasional updates
 permalink: /blog/:year/:title/
 
 # Pagination
