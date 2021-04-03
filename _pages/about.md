@@ -21,6 +21,7 @@ For the last 18 months, I've been working on an initiative at <a href="https://w
 
 Thank you for visiting my website. It's been fun building it and I hope to continually improve it in my spare time.
 
+<h3>chef recommends</h3>
 <i class="fas fa-music"></i>  Lately, I have been listening to a lot of <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uNcQt?si=BLNe0MvdTjKlkGThdbklaQ">Benny Sings</a>.
 
 <i class="fab fa-youtube"></i>  I've also been watching many of <a href="https://www.youtube.com/watch?v=RV8iAxQJE0s">Kerwin Frost's interviews</a>.
