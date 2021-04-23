@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a versatile, innovative collaborator who solves problems. I'm happiest contributing my skills at the intersection of journalism, technology and design. I'm a journalist by training, but I draw inspiration from a range of disciplines. A co-worker of mine once called me a "<a href="https://en.wiktionary.org/wiki/five-tool_player#English">five-tool player</a>." I thought that was pretty cool.
 
-For the last 18 months, I've been working on an initiative at <a href="https://wbur.org">WBUR</a> called <a href="https://wbur.org/citrus">Project CITRUS</a>, funded by the <a href="https://newsinitiative.withgoogle.com/">Google News Initiative</a>. Before that I worked for a radio show called <a href="https://wbur.org/hereandnow"><em>Here & Now</em></a>, a co-production of NPR and WBUR. I managed the show's digital content strategy and daily production.
+For the last 18 months, I've been working on an initiative at <a href="https://wbur.org">WBUR</a> called <a href="https://wbur.org/citrus">Project CITRUS</a>, funded by the <a href="https://newsinitiative.withgoogle.com/">Google News Initiative</a>. Before that I worked for a radio show called <a href="https://wbur.org/hereandnow">Here & Now</a>, a co-production of NPR and WBUR. I managed the show's digital content strategy and daily production.
 
 Thanks for visiting my website. I hope to continually improve it in my spare time.
 
