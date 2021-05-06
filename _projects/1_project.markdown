@@ -2,7 +2,7 @@
 layout: page
 title: CITRUS
 description: What is the future of radio?
-img: https://s3.amazonaws.com/jacksonmitchell.net/assets/img/bob.jpeg
+img: /assets/img/bob.jpg
 importance: 1
 ---
 
