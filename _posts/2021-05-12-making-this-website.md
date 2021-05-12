@@ -1,3 +1,9 @@
+---
+layout: post
+title:  making this website
+date:   2021-05-12 11:10:16
+description: march & april, looking forward to summer
+---
 # making this website
 
 I needed a website. So I finally got my shit together and made one.
@@ -6,7 +12,7 @@ For a long time, I used Squarespace templates for my personal website. It got th
 
 I then got to thinking, "Why should I spend my hard-earned dough on some mass-produced template built by a private enterprise, when I could just make one myself and have total control over it?"
 
-Control is the key. [Own the master](https://www.amuse.io/content/owning-your-masters?cn-reloaded=1). Whenever possible in life, you have to own the master.
+Control is the key. <a href="https://www.amuse.io/content/owning-your-masters?cn-reloaded=1">Own the master</a>. Whenever possible in life, you have to own the master.
 
 ### the tools
 
