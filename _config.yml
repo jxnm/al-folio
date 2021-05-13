@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Hi, I'm Jack 👋🏻
 email: jack@jacksonmitchell.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -39,7 +39,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: jxnm # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: jxnmitchell
 linkedin_username: jxnmitchell
