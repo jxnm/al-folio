@@ -12338,6 +12338,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${escapeHtml_1(data.title)}">
     <meta name="twitter:description" content="${escapeHtml_1(data.description)}">
+    <meta name="twitter:text:title" content="${escapeHtml_1(data.title)}">
     <meta name="twitter:url" content="${data.url}">
     <meta name="twitter:image" content="${data.previewURL}">
     <meta name="twitter:image:width" content="560">
