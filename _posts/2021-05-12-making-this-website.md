@@ -1,9 +1,18 @@
 ---
 layout: post
 title:  making this website
-date:   2021-05-12 11:10:16
+date:   2021-05-13 11:10:16
 description: meta, I know
 ---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/0513_tree-bud.jpg">
+    </div>
+</div>
+<div class="caption">
+    The start of something new. (<a href="https://unsplash.com/photos/nrsgYdyJJxs">Unsplash</a>)
+</div>
 
 The beauty of the web is there's room in it for everyone.
 
@@ -15,34 +24,34 @@ So I finally got my shit together and made a website.
 
 ### The tools
 
-I found this template on GitHub and forked the repo. It's called al-folio.
+I found this template on GitHub and forked the repo. It's called <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 
-I wanted something with a blog functionality. Something like Wordpress felt like overkill given that I probably won't be posting here all that much. I like how this particular blog allows me to write entries in Markdown. Markdown is clean, simple and lightweight. (Plug: I wrote this post in a great macOS app called MacDown.)
+I wanted something with a clean and simple look, plus a blog functionality. A proper CMS like Wordpress felt like overkill given that I probably won't be posting here all that much. I like how this particular blog allows me to write entries in Markdown, which is super simple and lightweight. (Plug: I use a great open-source macOS app called <a href="https://macdown.uranusjr.com">MacDown</a>.)
 
-All the code is stored in my forked GitHub repo, and I manage it from Visual Studio Code. From there, everything else is AWS.
+All the code is stored in my forked GitHub repo, which I push changes to via Visual Studio Code. From there, everything else is AWS.
 
 I used to host my domain on Hover. But I knew I wanted to at least <em>try</em> to run everything through AWS. I wanted to teach myself how it all worked given that it's more or less the industry standard. AWS is also supremely integrated and, importantly for a newbie like me,  well-documented.
 
-Sure, the scale at which I'm using AWS is microscopic. But I've learned a lot about it and I'm interested in checking out more services as I go.
+The scale at which I'm using AWS is microscopic. But I've learned a lot about it and I'm interested in checking out more services as I go.
 
 ### I'm mostly using Amplify, Route 53 and S3
 
 I stumbled upon Amplify almost accidentally.
 
-The GitHub repo I forked is powered by Jekyll, and one of the big selling points was how easily one could deploy on GitHub Pages. However, because I was ride-or-die AWS, I started searching for a similar kind of plug-and-play deployment option through AWS. Lo and behold, Amplify did exactly that.
+The repo I forked is powered by Jekyll, and one of the big selling points was how easily one could deploy on <a href="https://pages.github.com">GitHub Pages</a>. But I was ride-or-die AWS. So I started searching for a similar kind of plug-and-play deployment option. Lo and behold, AWS Amplify did exactly that.
 
 All I had to do was link up my forked repo's master branch to Amplify, make a few clicks, and the site was live.
 
-### But what about that slick custom domain?
+### But what about that custom domain?
 
 Here's where Route 53 entered the fold.
 
 A few months ago, I did the yeoman's work of swapping the registration from Hover to Route 53, which is the AWS Domain Name System (DNS) service. The process was a bit of a pain. But it paid off when the time came to deploy the Amplify app. The tight integrations across services meant it was an extra couple clicks to have the site up and running at my personal domain.
 
-I'm hoping to figure out how to use S3 image urls in blog posts like this one. Right now I have to store them locally. But that's the S3 explanation.
+I'm hoping to figure out how to use S3 image URLs in blog posts like this one. Right now I have to store them locally. But that's the S3 explanation.
 
 ### The bottom line
 
-The website is up. I'm pleased. Compared to, say, Squarespace's business plan ($18/month), my total AWS bill is about $5/month.
+The website is up. I'm pleased. My total AWS bill is about $5/month — a solid savings compared to, say, Squarespace's business plan ($18/month).
 
 And the personal growth? Priceless.
