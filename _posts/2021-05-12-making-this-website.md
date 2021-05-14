@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  making this website
-date:   2021-05-13 11:10:16
+date:   2021-05-14 10:01:16
 description: meta, I know
 ---
 
@@ -17,6 +17,15 @@ description: meta, I know
 The beauty of the web is there's room in it for everyone.
 
 I've always liked the idea that my "place" could be a simple website where I could share a little bit about myself, my job, and whatever else.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/0514_creedthoughts.jpg">
+    </div>
+</div>
+<div class="caption">
+    OK, hopefully not like <em>this</em>. (<a href="https://www.youtube.com/watch?v=1e5td7-Bpvc">YouTube</a>)
+</div>
 
 For a long time, I used Squarespace to host a personal website. It got the job done alright. But the sites were slow and clunky. They're customizable, sort of. But it wasn't enough. I wanted a challenge — and more control. Control is everything.
 
@@ -46,7 +55,7 @@ All I had to do was link up my forked repo's master branch to Amplify, make a fe
 
 Here's where Route 53 entered the fold.
 
-A few months ago, I did the yeoman's work of swapping the registration from Hover to Route 53, which is the AWS Domain Name System (DNS) service. The process was a bit of a pain. But it paid off when the time came to deploy the Amplify app. The tight integrations across services meant it was an extra couple clicks to have the site up and running at my personal domain.
+A few months ago, I did the yeoman's work of swapping the registration from Hover to Route 53, which is the AWS Domain Name System (DNS) service. The process was a bit of a pain. But it paid off when the time came to deploy the Amplify app. The tight integrations across services meant an extra couple clicks was all it took to have the site up and running at my personal domain.
 
 I'm hoping to figure out how to use S3 image URLs in blog posts like this one. Right now I have to store them locally. But that's the S3 explanation.
 
