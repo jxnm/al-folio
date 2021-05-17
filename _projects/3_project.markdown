@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CITRUS
-description: a project that redirects to another website
-img: /assets/img/7.jpg
+title: Project CITRUS
+description: Exploring the future of on-demand audio and emerging platforms at WBUR
+img: /assets/img/0517_citrus.jpg
 redirect: https://www.wbur.org/citrus
-importance: 3
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.
