@@ -2,7 +2,7 @@
 layout: page
 title: Project CITRUS
 description: Exploring the future of on-demand audio and emerging platforms at WBUR
-img: /assets/img/0517_citrus.jpg
+img: /assets/img/0517_citrus2.jpg
 redirect: https://www.wbur.org/citrus
 importance: 1
 ---
